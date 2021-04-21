@@ -8,7 +8,7 @@ The most frequently used control statements in this Wordplay Game are if() and i
 
 ## Creator:
 ---
-[Ruchit Kalathiya](https://github.com/ruchitkalathiya)
+[Ruchit Kalathiya (19IT051)](https://github.com/ruchitkalathiya)
 
 ## Features:
 
