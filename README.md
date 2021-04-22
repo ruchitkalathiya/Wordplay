@@ -27,10 +27,14 @@ You can use this Wordplay Game in C++ as chapter project of control structure an
 ## Functionalities:
 ---
 1. Strarting Screen  
- ![Screen-1](https://github.com/ruchitkalathiya/Wordplay/blob/main/images/a.png)  
+<img src="https://github.com/ruchitkalathiya/Wordplay/blob/main/images/a.png" width="500" heigth="50"> 
+
 2. Game Page  
-![Screen-2](https://github.com/ruchitkalathiya/Wordplay/blob/main/images/b.png)  
+<img src="https://github.com/ruchitkalathiya/Wordplay/blob/main/images/b.png" width="500" heigth="50"> 
+
 3. "HINT" usage  
-![Screen-3](https://github.com/ruchitkalathiya/Wordplay/blob/main/images/c.png)  
+<img src="https://github.com/ruchitkalathiya/Wordplay/blob/main/images/c.png" width="350" heigth="50"> 
+
 4. Quit game  
-![Screen-4](https://github.com/ruchitkalathiya/Wordplay/blob/main/images/d.png)  
+<img src="https://github.com/ruchitkalathiya/Wordplay/blob/main/images/d.png" width="350" heigth="50"> 
+
